@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Pençe Ayakkabı: Gaziantep’te iki mağazada günlük, klasik ve yürüyüş ayakkabısı; numara cetveli, 14 gün numara değişimi ve deri bakım köşesi. Demo site; içerik kurgusaldır.",
+    "en": "Pençe Ayakkabı: everyday, classic and walking shoes at two stores in Gaziantep, with a size chart, 14-day size exchange and a leather-care corner. Demo site; content is fictional.",
+    "ar": "بنتشه للأحذية: أحذية يومية وكلاسيكية وأحذية مشي في متجرين في غازي عنتاب، مع جدول مقاسات واستبدال المقاس خلال 14 يومًا وركن للعناية بالجلد. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "ayakkabı mağazası, ayakkabı numarası, deri ayakkabı, yürüyüş ayakkabısı, Gaziantep",
+    "en": "shoe store, shoe size, leather shoes, walking shoes, Gaziantep",
+    "ar": "متجر أحذية، مقاس الحذاء، أحذية جلدية، أحذية مشي، غازي عنتاب"
+  },
+  "category": "Kurumsal",
+  "name": "Pençe Ayakkabı",
+  "domain": "ayakkabi-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "nunito-sans",
+    "heading": "barlow-condensed",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#1F7A84",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "2px",
+    "--mx-radius-md": "4px",
+    "--mx-radius-lg": "6px",
+    "--mx-radius-xl": "8px"
+  },
+  "icon": "icon.png"
+}

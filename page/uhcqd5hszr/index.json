@@ -1,0 +1,41 @@
+{
+  "id": "uhcqd5hszr",
+  "name": {
+    "tr": "Raflar",
+    "en": "Shelves",
+    "ar": "رفوف"
+  },
+  "description": {
+    "tr": "Deri aksesuar, kombin önerisi ve mağaza rafları.",
+    "en": "Leather accessories, outfit ideas and store shelves.",
+    "ar": "إكسسوارات جلدية وأفكار إطلالات ورفوف المتجر."
+  },
+  "keyword": {
+    "tr": "ayakkabı rafı, deri aksesuar",
+    "en": "shoe shelves, leather accessories",
+    "ar": "رفوف الأحذية، إكسسوارات جلدية"
+  },
+  "path": "hizmetler",
+  "icon": "work",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "2g4i4s",
+      "k2gsz2",
+      "09rd1v"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Raflar",
+    "en": "Shelves",
+    "ar": "رفوف"
+  },
+  "date": "2026-11-16T18:02:16.823Z",
+  "update": "2026-11-16T18:12:02.220Z"
+}
