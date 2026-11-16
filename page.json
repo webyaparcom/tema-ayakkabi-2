@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "id": "uhcqd5hszr",
+      "name": {
+        "tr": "Raflar",
+        "en": "Shelves",
+        "ar": "رفوف"
+      },
+      "description": {
+        "tr": "Deri aksesuar, kombin önerisi ve mağaza rafları.",
+        "en": "Leather accessories, outfit ideas and store shelves.",
+        "ar": "إكسسوارات جلدية وأفكار إطلالات ورفوف المتجر."
+      },
+      "path": "hizmetler",
+      "icon": "work",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "2g4i4s",
+          "k2gsz2",
+          "09rd1v"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Numara",
+        "en": "Sizes",
+        "ar": "مقاسات"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "straighten",
+      "desing": {
+        "header": [],
+        "body": [
+          "8z9wd8",
+          "k2gsz2"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Ayak uzunluğundan numara bulma cetveli (EU · UK · US).",
+        "en": "Size chart from foot length (EU · UK · US).",
+        "ar": "جدول المقاسات حسب طول القدم (EU · UK · US)."
+      }
+    },
+    {
+      "id": "p2ixg8jpg0",
+      "name": {
+        "tr": "Yorumlar",
+        "en": "Reviews",
+        "ar": "التقييمات"
+      },
+      "description": {
+        "tr": "Konfor, kalıp ve işçilik puanlı kurgusal yorumlar.",
+        "en": "Fictional reviews scored on comfort, fit and craft.",
+        "ar": "تقييمات افتراضية بدرجات للراحة والقالب والصنعة."
+      },
+      "path": "referanslar",
+      "icon": "stars",
+      "category": "uhcqd5hszr",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "13q8by",
+          "09rd1v"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "f7ivbel9uq",
+      "name": {
+        "tr": "Mağazalar",
+        "en": "Stores",
+        "ar": "فروعنا"
+      },
+      "description": {
+        "tr": "İki mağazanın adresi, saatleri ve iletişimi.",
+        "en": "Addresses, hours and contact for both stores.",
+        "ar": "عناوين المتجرين وساعاتهما ووسائل التواصل."
+      },
+      "path": "teklif-al",
+      "icon": "storefront",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "g5f6i3"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "name": {
+        "tr": "Konum",
+        "en": "Location",
+        "ar": "الموقع"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "f7ivbel9uq",
+      "url": "",
+      "index": 4,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "g5f6i3",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Mağaza adresleri ve harita.",
+        "en": "Store addresses and map.",
+        "ar": "عناوين المتاجر والخريطة."
+      }
+    }
+  ],
+  "desc": []
+}

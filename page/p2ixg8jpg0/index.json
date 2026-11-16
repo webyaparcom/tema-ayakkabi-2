@@ -1,0 +1,40 @@
+{
+  "id": "p2ixg8jpg0",
+  "name": {
+    "tr": "Yorumlar",
+    "en": "Reviews",
+    "ar": "التقييمات"
+  },
+  "description": {
+    "tr": "Konfor, kalıp ve işçilik puanlı kurgusal yorumlar.",
+    "en": "Fictional reviews scored on comfort, fit and craft.",
+    "ar": "تقييمات افتراضية بدرجات للراحة والقالب والصنعة."
+  },
+  "keyword": {
+    "tr": "referans, müşteri yorumu",
+    "en": "reference, review",
+    "ar": "مرجع، تقييم"
+  },
+  "path": "referanslar",
+  "icon": "stars",
+  "category": "uhcqd5hszr",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "13q8by",
+      "09rd1v"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Yorumlar",
+    "en": "Reviews",
+    "ar": "التقييمات"
+  },
+  "date": "2026-11-16T18:02:16.840Z",
+  "update": "2026-11-16T18:12:02.228Z"
+}
