@@ -2,7 +2,9 @@
   "name": {
     "tr": "Konum",
     "en": "Location",
-    "ar": "الموقع"
+    "ar": "الموقع",
+    "de": "Standort",
+    "ru": "Местоположение"
   },
   "status": "play",
   "category": "f7ivbel9uq",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Mağaza adresleri ve harita.",
     "en": "Store addresses and map.",
-    "ar": "عناوين المتاجر والخريطة."
+    "ar": "عناوين المتاجر والخريطة.",
+    "de": "Ladenadressen und Karte.",
+    "ru": "Адреса магазинов и карта."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Konum",
     "en": "Location",
-    "ar": "الموقع"
+    "ar": "الموقع",
+    "de": "Standort",
+    "ru": "Местоположение"
   },
   "keyword": {
     "tr": "iletişim",
     "en": "contact",
-    "ar": "اتصال"
+    "ar": "اتصال",
+    "de": "Kontakt",
+    "ru": "контакты"
   },
   "text": {},
   "update": "2026-11-16T18:12:02.235Z",

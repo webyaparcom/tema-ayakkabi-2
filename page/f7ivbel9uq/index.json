@@ -3,17 +3,23 @@
   "name": {
     "tr": "Mağazalar",
     "en": "Stores",
-    "ar": "فروعنا"
+    "ar": "فروعنا",
+    "de": "Filialen",
+    "ru": "Магазины"
   },
   "description": {
     "tr": "İki mağazanın adresi, saatleri ve iletişimi.",
     "en": "Addresses, hours and contact for both stores.",
-    "ar": "عناوين المتجرين وساعاتهما ووسائل التواصل."
+    "ar": "عناوين المتجرين وساعاتهما ووسائل التواصل.",
+    "de": "Adressen, Öffnungszeiten und Kontakt der beiden Geschäfte.",
+    "ru": "Адреса, часы работы и контакты двух магазинов."
   },
   "keyword": {
     "tr": "ayakkabı mağazası Gaziantep",
     "en": "shoe store Gaziantep",
-    "ar": "متجر أحذية غازي عنتاب"
+    "ar": "متجر أحذية غازي عنتاب",
+    "de": "Schuhgeschäft Gaziantep",
+    "ru": "Обувной магазин Газиантеп"
   },
   "path": "teklif-al",
   "icon": "storefront",
@@ -32,7 +38,9 @@
   "title": {
     "tr": "Mağazalar",
     "en": "Stores",
-    "ar": "فروعنا"
+    "ar": "فروعنا",
+    "de": "Filialen",
+    "ru": "Магазины"
   },
   "date": "2026-11-16T18:02:16.850Z",
   "update": "2026-11-16T18:12:02.231Z"

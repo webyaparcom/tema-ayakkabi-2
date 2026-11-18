@@ -4,12 +4,16 @@
   "description": {
     "tr": "Pençe Ayakkabı: Gaziantep’te iki mağazada günlük, klasik ve yürüyüş ayakkabısı; numara cetveli, 14 gün numara değişimi ve deri bakım köşesi. Demo site; içerik kurgusaldır.",
     "en": "Pençe Ayakkabı: everyday, classic and walking shoes at two stores in Gaziantep, with a size chart, 14-day size exchange and a leather-care corner. Demo site; content is fictional.",
-    "ar": "بنتشه للأحذية: أحذية يومية وكلاسيكية وأحذية مشي في متجرين في غازي عنتاب، مع جدول مقاسات واستبدال المقاس خلال 14 يومًا وركن للعناية بالجلد. موقع تجريبي؛ المحتوى افتراضي."
+    "ar": "بنتشه للأحذية: أحذية يومية وكلاسيكية وأحذية مشي في متجرين في غازي عنتاب، مع جدول مقاسات واستبدال المقاس خلال 14 يومًا وركن للعناية بالجلد. موقع تجريبي؛ المحتوى افتراضي.",
+    "de": "Pençe Ayakkabı: Alltags-, klassische und Wanderschuhe in zwei Geschäften in Gaziantep; Größentabelle, 14 Tage Größenumtausch und Lederpflegeecke. Demo-Website; der Inhalt ist fiktiv.",
+    "ru": "Pençe Ayakkabı: повседневная, классическая и туристическая обувь в двух магазинах Газиантепа; таблица размеров, обмен размера в течение 14 дней и уголок ухода за кожей. Демонстрационный сайт; содержимое вымышленное."
   },
   "keyword": {
     "tr": "ayakkabı mağazası, ayakkabı numarası, deri ayakkabı, yürüyüş ayakkabısı, Gaziantep",
     "en": "shoe store, shoe size, leather shoes, walking shoes, Gaziantep",
-    "ar": "متجر أحذية، مقاس الحذاء، أحذية جلدية، أحذية مشي، غازي عنتاب"
+    "ar": "متجر أحذية، مقاس الحذاء، أحذية جلدية، أحذية مشي، غازي عنتاب",
+    "de": "Schuhladen, Schuhgröße, Lederschuhe, Wanderschuhe, Gaziantep",
+    "ru": "обувной магазин, размер обуви, кожаная обувь, прогулочная обувь, Газиантеп"
   },
   "category": "Kurumsal",
   "name": "Pençe Ayakkabı",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

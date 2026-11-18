@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>Herkesin ayağına uyan numarayı, denemeden önce bilerek bulmasını sağlamak.</p>",
     "en": "<h2>Our mission</h2>\n<p>To help everyone find the size that fits, knowing it before they try.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>أن نساعد الجميع على إيجاد المقاس المناسب ومعرفته قبل التجربة.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>أن نساعد الجميع على إيجاد المقاس المناسب ومعرفته قبل التجربة.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>Jedem zu ermöglichen, die zu seinem Fuß passende Größe schon vor dem Anprobieren zu kennen.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Помочь каждому узнать подходящий размер обуви ещё до примерки.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T18:02:16.674Z",
   "update": "2026-11-16T18:12:02.240Z",
