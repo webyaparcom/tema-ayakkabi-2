@@ -3,17 +3,23 @@
   "name": {
     "tr": "Kalite Politikamız",
     "en": "Quality Policy",
-    "ar": "سياسة الجودة"
+    "ar": "سياسة الجودة",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "description": {
     "tr": "Kalite politikamız",
     "en": "Our quality policy",
-    "ar": "سياسة الجودة لدينا"
+    "ar": "سياسة الجودة لدينا",
+    "de": "Unsere Qualitätspolitik",
+    "ru": "Наша политика качества"
   },
   "keyword": {
     "tr": "Kalite Politikamız",
     "en": "quality policy, quality, continuous improvement",
-    "ar": "سياسة الجودة, الجودة, التحسين المستمر"
+    "ar": "سياسة الجودة, الجودة, التحسين المستمر",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "path": "kalitepolitikamiz",
   "icon": "verified",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Kalite Politikamız</h2>\n<p>Her çift kasadan önce iki ayakla denenir; 14 gün numara değişimi.</p>",
     "en": "<h2>Our quality policy</h2>\n<p>Every pair is tried on both feet before checkout; 14-day size exchange.</p>",
-    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>يُجرَّب كل زوج بالقدمين قبل الدفع؛ واستبدال المقاس خلال 14 يومًا.</p>"
+    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>يُجرَّب كل زوج بالقدمين قبل الدفع؛ واستبدال المقاس خلال 14 يومًا.</p>",
+    "de": "<h2>Unsere Qualitätsrichtlinie</h2>\n<p>Jedes Paar wird vor dem Kauf an beiden Füßen anprobiert; 14 Tage Größenwechsel.</p>",
+    "ru": "<h2>Наша политика качества</h2>\n<p>Каждая пара примеряется на обе ноги перед покупкой; обмен размера в течение 14 дней.</p>"
   },
   "title": {
     "tr": "Kalite Politikamız",
     "en": "Quality Policy",
-    "ar": "سياسة الجودة"
+    "ar": "سياسة الجودة",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "date": "2026-11-16T18:02:16.674Z",
   "update": "2026-11-16T18:12:02.244Z",

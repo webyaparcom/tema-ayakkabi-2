@@ -3,17 +3,23 @@
   "name": {
     "tr": "Yorumlar",
     "en": "Reviews",
-    "ar": "التقييمات"
+    "ar": "التقييمات",
+    "de": "Bewertungen",
+    "ru": "Отзывы"
   },
   "description": {
     "tr": "Konfor, kalıp ve işçilik puanlı kurgusal yorumlar.",
     "en": "Fictional reviews scored on comfort, fit and craft.",
-    "ar": "تقييمات افتراضية بدرجات للراحة والقالب والصنعة."
+    "ar": "تقييمات افتراضية بدرجات للراحة والقالب والصنعة.",
+    "de": "Fiktive Bewertungen mit Punkten für Komfort, Passform und Verarbeitung.",
+    "ru": "Условные отзывы с оценками комфорта, колодки и качества исполнения."
   },
   "keyword": {
     "tr": "referans, müşteri yorumu",
     "en": "reference, review",
-    "ar": "مرجع، تقييم"
+    "ar": "مرجع، تقييم",
+    "de": "Referenz, Kundenbewertung",
+    "ru": "рекомендация, отзыв клиента"
   },
   "path": "referanslar",
   "icon": "stars",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Yorumlar",
     "en": "Reviews",
-    "ar": "التقييمات"
+    "ar": "التقييمات",
+    "de": "Bewertungen",
+    "ru": "Отзывы"
   },
   "date": "2026-11-16T18:02:16.840Z",
   "update": "2026-11-16T18:12:02.228Z"

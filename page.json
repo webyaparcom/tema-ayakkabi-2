@@ -5,12 +5,16 @@
       "name": {
         "tr": "Raflar",
         "en": "Shelves",
-        "ar": "رفوف"
+        "ar": "رفوف",
+        "de": "Regale",
+        "ru": "Полки"
       },
       "description": {
         "tr": "Deri aksesuar, kombin önerisi ve mağaza rafları.",
         "en": "Leather accessories, outfit ideas and store shelves.",
-        "ar": "إكسسوارات جلدية وأفكار إطلالات ورفوف المتجر."
+        "ar": "إكسسوارات جلدية وأفكار إطلالات ورفوف المتجر.",
+        "de": "Ledertaschen, Styling-Tipps und Ladenregale.",
+        "ru": "Кожаные аксессуары, советы по стилю и полки в магазине."
       },
       "path": "hizmetler",
       "icon": "work",
@@ -31,7 +35,9 @@
       "name": {
         "tr": "Numara",
         "en": "Sizes",
-        "ar": "مقاسات"
+        "ar": "مقاسات",
+        "de": "Größen",
+        "ru": "Размеры"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -52,7 +58,9 @@
       "description": {
         "tr": "Ayak uzunluğundan numara bulma cetveli (EU · UK · US).",
         "en": "Size chart from foot length (EU · UK · US).",
-        "ar": "جدول المقاسات حسب طول القدم (EU · UK · US)."
+        "ar": "جدول المقاسات حسب طول القدم (EU · UK · US).",
+        "de": "Größentabelle anhand der Fußlänge (EU · UK · US).",
+        "ru": "Таблица размеров по длине стопы (EU · UK · US)."
       }
     },
     {
@@ -60,12 +68,16 @@
       "name": {
         "tr": "Yorumlar",
         "en": "Reviews",
-        "ar": "التقييمات"
+        "ar": "التقييمات",
+        "de": "Bewertungen",
+        "ru": "Отзывы"
       },
       "description": {
         "tr": "Konfor, kalıp ve işçilik puanlı kurgusal yorumlar.",
         "en": "Fictional reviews scored on comfort, fit and craft.",
-        "ar": "تقييمات افتراضية بدرجات للراحة والقالب والصنعة."
+        "ar": "تقييمات افتراضية بدرجات للراحة والقالب والصنعة.",
+        "de": "Fiktive Bewertungen mit Punkten für Komfort, Passform und Verarbeitung.",
+        "ru": "Условные отзывы с оценками комфорта, колодки и качества исполнения."
       },
       "path": "referanslar",
       "icon": "stars",
@@ -86,12 +98,16 @@
       "name": {
         "tr": "Mağazalar",
         "en": "Stores",
-        "ar": "فروعنا"
+        "ar": "فروعنا",
+        "de": "Filialen",
+        "ru": "Магазины"
       },
       "description": {
         "tr": "İki mağazanın adresi, saatleri ve iletişimi.",
         "en": "Addresses, hours and contact for both stores.",
-        "ar": "عناوين المتجرين وساعاتهما ووسائل التواصل."
+        "ar": "عناوين المتجرين وساعاتهما ووسائل التواصل.",
+        "de": "Adressen, Öffnungszeiten und Kontakt der beiden Geschäfte.",
+        "ru": "Адреса, часы работы и контакты двух магазинов."
       },
       "path": "teklif-al",
       "icon": "storefront",
@@ -110,7 +126,9 @@
       "name": {
         "tr": "Konum",
         "en": "Location",
-        "ar": "الموقع"
+        "ar": "الموقع",
+        "de": "Standort",
+        "ru": "Местоположение"
       },
       "status": "play",
       "id": "iletisim",
@@ -131,7 +149,9 @@
       "description": {
         "tr": "Mağaza adresleri ve harita.",
         "en": "Store addresses and map.",
-        "ar": "عناوين المتاجر والخريطة."
+        "ar": "عناوين المتاجر والخريطة.",
+        "de": "Ladenadressen und Karte.",
+        "ru": "Адреса магазинов и карта."
       }
     }
   ],

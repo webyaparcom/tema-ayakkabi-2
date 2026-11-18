@@ -3,17 +3,23 @@
   "name": {
     "tr": "Raflar",
     "en": "Shelves",
-    "ar": "رفوف"
+    "ar": "رفوف",
+    "de": "Regale",
+    "ru": "Полки"
   },
   "description": {
     "tr": "Deri aksesuar, kombin önerisi ve mağaza rafları.",
     "en": "Leather accessories, outfit ideas and store shelves.",
-    "ar": "إكسسوارات جلدية وأفكار إطلالات ورفوف المتجر."
+    "ar": "إكسسوارات جلدية وأفكار إطلالات ورفوف المتجر.",
+    "de": "Ledertaschen, Styling-Tipps und Ladenregale.",
+    "ru": "Кожаные аксессуары, советы по стилю и полки в магазине."
   },
   "keyword": {
     "tr": "ayakkabı rafı, deri aksesuar",
     "en": "shoe shelves, leather accessories",
-    "ar": "رفوف الأحذية، إكسسوارات جلدية"
+    "ar": "رفوف الأحذية، إكسسوارات جلدية",
+    "de": "Schuhregal, Lederaccessoires",
+    "ru": "полка для обуви, кожаные аксессуары"
   },
   "path": "hizmetler",
   "icon": "work",
@@ -34,7 +40,9 @@
   "title": {
     "tr": "Raflar",
     "en": "Shelves",
-    "ar": "رفوف"
+    "ar": "رفوف",
+    "de": "Regale",
+    "ru": "Полки"
   },
   "date": "2026-11-16T18:02:16.823Z",
   "update": "2026-11-16T18:12:02.220Z"

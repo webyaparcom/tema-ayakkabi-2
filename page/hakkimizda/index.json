@@ -2,7 +2,9 @@
   "name": {
     "tr": "Numara",
     "en": "Sizes",
-    "ar": "مقاسات"
+    "ar": "مقاسات",
+    "de": "Größen",
+    "ru": "Размеры"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Ayak uzunluğundan numara bulma cetveli (EU · UK · US).",
     "en": "Size chart from foot length (EU · UK · US).",
-    "ar": "جدول المقاسات حسب طول القدم (EU · UK · US)."
+    "ar": "جدول المقاسات حسب طول القدم (EU · UK · US).",
+    "de": "Größentabelle anhand der Fußlänge (EU · UK · US).",
+    "ru": "Таблица размеров по длине стопы (EU · UK · US)."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Numara",
     "en": "Sizes",
-    "ar": "مقاسات"
+    "ar": "مقاسات",
+    "de": "Größen",
+    "ru": "Размеры"
   },
   "keyword": {
     "tr": "ayakkabı numarası, numara cetveli",
     "en": "shoe size, size chart",
-    "ar": "مقاس الحذاء، جدول المقاسات"
+    "ar": "مقاس الحذاء، جدول المقاسات",
+    "de": "Schuhgröße, Größentabelle",
+    "ru": "размер обуви, таблица размеров"
   },
   "text": {},
   "update": "2026-11-16T18:12:02.224Z",
